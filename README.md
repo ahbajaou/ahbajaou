@@ -68,4 +68,4 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahbajaou&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;layout=compact" alt="ahbajaou" bg_color="#808080/"></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahbajaou&layout=compact)
