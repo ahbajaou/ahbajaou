@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm Cheb2ub</h1>
+<h3 align="center">A passionate Software Developer from Morocco 🇲🇦</h3>
+
+<p align="center">
+  💻 I love building web apps, designing user interfaces, and diving into backend tech.<br>
+  🚀 Always learning and exploring new tools and technologies.<br>
+  🌍 Open to collaboration and exciting projects!
+</p>
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
